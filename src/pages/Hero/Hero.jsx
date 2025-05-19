@@ -50,7 +50,7 @@ const words = [
 
 const [code] = useState(`profile = {
     "name": "Rajababu Kushwaha",
-    "title": "Python Developer | API Expert | Automation Enthusiast",
+    "title": "FullStackDeveloper | DjangoExpert | AI/MLandAutomationEnthusiast",
     "skills": [
         "Python", "Flask", "Django", "FastAPI",
         "PostgreSQL", "MongoDB", "Docker", "AWS",
@@ -211,7 +211,7 @@ print("Hireable:", hireable(profile))`);
               {/* Description */}
               <div className="relative mb-8 sm:mb-12 max-w-xl">
                 <p className="text-base sm:text-xl text-gray-300/90 leading-relaxed">
-                  Pythonista 🐍 | Flask & FastAPI Enthusiast 🧩 | Building APIs & automating the future 🤖
+                  Pythonista 🐍 | Django & React Developer ⚙️ | Flask & FastAPI Enthusiast 🧩 | Machine Learning Explorer 🤖 | Data-Driven Thinker 📊| Building APIs & automating the future 🤖
                 </p>
               </div>
 
@@ -247,12 +247,12 @@ print("Hireable:", hireable(profile))`);
               {/* Floating badges */}
               <div className="hidden lg:block absolute left-[5.5rem] top-[2.3rem] animate-float-slow">
                 <div className="px-4 py-2 rounded-lg bg-purple-500/10 backdrop-blur-sm border border-purple-500/20 text-purple-400">
-                  <i className="fas fa-wand-magic-sparkles"></i>&nbsp;&nbsp;Elegant Scripts
+                  <i className="fas fa-wand-magic-sparkles"></i>&nbsp;&nbsp;Django + React
                 </div>
               </div>
               <div className="hidden lg:block absolute right-10 top-20 animate-float">
                 <div className="px-4 py-2 rounded-lg bg-blue-500/10 backdrop-blur-sm border border-blue-500/20 text-blue-400">
-                  <i className="fas fa-code"></i>&nbsp;&nbsp;Pythonic & Clean Code
+                  <i className="fas fa-code"></i>&nbsp;&nbsp;ML & Data-Driven Thinking
                 </div>
               </div>
               <div className="hidden lg:block absolute top-[17rem] left-[70%] transform -translate-x-1/2 animate-float">
